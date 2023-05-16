@@ -1,0 +1,4 @@
+CREATE TABLE Занятие
+(
+id_занятия SMALLINT PRIMARY KEY NOT NULL
+)
